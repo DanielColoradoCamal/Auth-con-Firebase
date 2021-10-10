@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "738345340462",
+    "project_id": "androidauth-f2cb7",
+    "storage_bucket": "androidauth-f2cb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738345340462:android:44b848e03025ece21619bf",
+        "android_client_info": {
+          "package_name": "com.bedu.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738345340462-7i4ti5760pt94oj37ppc5i3c4ta1apka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bedu.auth",
+            "certificate_hash": "d8f8051fe79cd96c8244f581ba42ef605b262d97"
+          }
+        },
+        {
+          "client_id": "738345340462-ec12i1lo734me7vqq64runub58lh43po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlu2ZVl4uvOQmO6Ohj5IDwQbVeEiGrIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738345340462-ec12i1lo734me7vqq64runub58lh43po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
