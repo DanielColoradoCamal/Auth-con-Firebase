@@ -35,6 +35,7 @@ class MainActivity : Activity() {
         val view = binding.root
         setContentView(view)
         //Dentro de onCreate
+
         FirebaseApp.initializeApp(this)
 
         val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
